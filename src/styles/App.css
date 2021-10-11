@@ -1,0 +1,29 @@
+.app__container {
+    padding: 20px 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.app__title {
+    color: #222;
+}
+
+.filterButton {
+    position: absolute;
+    cursor: pointer;
+    top: 20px;
+    right: 100px;
+    width: 120px;
+    height: 40px;
+    background-color: teal;
+    border-radius: 10px;
+    color: white;
+    font-size: 18px;
+    outline: none;
+    user-select: none;
+}
+
+.filterButton:active {
+    border: 2px solid #222;
+}

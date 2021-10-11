@@ -1,0 +1,11 @@
+.error__container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.error__container > span {
+    font-size: 40px;
+    color: rgb(219, 50, 50);
+    margin-top: 200px;
+}

@@ -1,0 +1,7 @@
+export const LOAD_DATA = 'LOAD_DATA'
+export const LOAD_DATA_SUCCESS = 'LOAD_DATA_SUCCESS'
+export const LOAD_DATA_FAILURE = 'LOAD_DATA_FAILURE'
+export const LOAD_COVER_FAILURE = 'LOAD_COVER_FAILURE'
+export const DELETE_CARD = 'DELETE_CARD'
+export const TOGGLE_LIKE = 'TOGGLE_LIKE'
+export const SET_FILTRED = 'SET_FILTRED'

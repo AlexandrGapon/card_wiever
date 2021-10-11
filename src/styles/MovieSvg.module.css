@@ -1,0 +1,13 @@
+.container {
+    width: 150px;
+    border: 10px solid rgba(0, 128, 128, 0.5);
+    height: 225px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container > img {
+    width: 100px;
+    opacity: .7;
+}
